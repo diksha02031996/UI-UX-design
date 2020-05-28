@@ -1,2 +1,2 @@
 # UI-UX-design
-It is a simple Mutual find application did in Figma 
+It is a simple Mutual fund application did in Figma 
